@@ -1,0 +1,181 @@
+@import "./mixins.scss";
+
+@include keyframes(rotateLoader) {
+    0% { transform: rotate(-45deg); }
+    100% { transform: rotate(315deg); }
+}
+@include keyframes(animateLoaderInner) {
+    0% {
+    //     -webkit-clip-path: polygon(50% 0%, 100% 0%, 100% 100%, 50% 50%);
+    //             clip-path: polygon(50% 0%, 100% 0%, 100% 100%, 50% 50%);
+            -webkit-clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 100% 100%, 75% 50%, 100% 0%);
+                clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 100% 100%, 75% 50%, 100% 0%);
+    }
+    40% {
+        // -webkit-clip-path: polygon(50% 0%, 100% 0%, 100% 100%, 50% 50%);
+        //         clip-path: polygon(50% 0%, 100% 0%, 100% 100%, 50% 50%);
+            -webkit-clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 100% 100%, 75% 50%, 100% 0%);
+                clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 100% 100%, 75% 50%, 100% 0%);
+    }
+    // 40% { 
+    //     // -webkit-clip-path: polygon(50% 0%, 100% 0%, 100% 25%, 50% 50%);
+    //     //         clip-path: polygon(50% 0%, 100% 0%, 100% 25%, 50% 50%);
+    //         -webkit-clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 0% 100%, 50% 50%, 0% 0%);
+    //             clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 0% 100%, 50% 50%, 0% 0%);
+    // }
+    60% { 
+        // -webkit-clip-path: polygon(50% 0%, 100% 0%, 100% 25%, 50% 50%);
+        //         clip-path: polygon(50% 0%, 100% 0%, 100% 25%, 50% 50%);
+            -webkit-clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 0% 100%, 50% 50%, 0% 0%);
+                clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 0% 100%, 50% 50%, 0% 0%);
+    }
+    80% {
+        // -webkit-clip-path: polygon(50% 0%, 100% 0%, 100% 100%, 50% 50%);
+        //         clip-path: polygon(50% 0%, 100% 0%, 100% 100%, 50% 50%);
+            -webkit-clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 100% 100%, 75% 50%, 100% 0%);
+                clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 100% 100%, 75% 50%, 100% 0%);
+    }
+    100% {
+        // -webkit-clip-path: polygon(50% 0%, 100% 0%, 100% 100%, 50% 50%);
+        //         clip-path: polygon(50% 0%, 100% 0%, 100% 100%, 50% 50%);
+            -webkit-clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 100% 100%, 75% 50%, 100% 0%);
+                clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 100% 100%, 75% 50%, 100% 0%);
+    }
+}
+@include keyframes(animateLoaderEdge) {
+    0% {
+            -webkit-clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 100% 100%, 75% 50%, 100% 0%);
+                clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 100% 100%, 75% 50%, 100% 0%);
+    }
+    40% {
+            -webkit-clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 100% 100%, 75% 50%, 100% 0%);
+                clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 100% 100%, 75% 50%, 100% 0%);
+    }
+    // 40% { 
+
+    // }
+    60% { 
+            -webkit-clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 0% 100%, 50% 50%, 0% 0%);
+                clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 0% 100%, 50% 50%, 0% 0%);
+    }
+    80% {
+            -webkit-clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 100% 100%, 75% 50%, 100% 0%);
+                clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 100% 100%, 75% 50%, 100% 0%);
+    }
+    100% {
+            -webkit-clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 100% 100%, 75% 50%, 100% 0%);
+                clip-path: polygon(100% 0%, 100% 50%, 100% 100%, 100% 100%, 75% 50%, 100% 0%);
+    }
+}
+
+@include keyframes(animateTweet) { 
+// this doesn't adjust the height.
+    0% { 
+        opacity: 0; 
+        // max-height: 0px;
+        // -webkit-transform: scaleY(0);
+        // -o-transform: scaleY(0);
+        // -ms-transform: scaleY(0);
+        // transform: scaleY(0);
+    }
+    100% { 
+        opacity: 1; 
+        // max-height: 6000px;
+        // -webkit-transform: scaleY(1);
+        // -o-transform: scaleY(1);
+        // -ms-transform: scaleY(1);
+        // transform: scaleY(1);
+    }
+}
+
+@include keyframes(animateTweetCompose) {
+    0% {
+        opacity: 0; 
+        transform: translatex(-100%);
+    }
+    100% {
+        opacity: 1; 
+        transform: translatex(0px);
+    }
+}
+
+@include keyframes(animateTweetContent) {
+    0% { 
+        opacity: 0; 
+        transform: translatex(40px);
+    }
+    100% { 
+        opacity: 1; 
+        transform: translatex(0px);
+    }
+}
+@include keyframes(animateTweetContentDelay) {
+    0% { 
+        opacity: 0; 
+        transform: translatex(40px);
+    }
+    33% { 
+        opacity: 0; 
+        transform: translatex(40px);
+    }
+    100% { 
+        opacity: 1; 
+        transform: translatex(0px);
+    }
+}
+@include keyframes(animateTweetContentExtra) {
+    0% { 
+        opacity: 0; 
+        transform: translatex(40px);
+    }
+    66% { 
+        opacity: 0; 
+        transform: translatex(40px);
+    }
+    100% { 
+        opacity: 1; 
+        transform: translatex(0px);
+    }
+}
+
+
+@include keyframes(animateAction) { 
+    0% {         
+        -webkit-transform:  scale(0,0);
+        -o-transform:       scale(0,0);
+        -ms-transform:      scale(0,0);
+        transform:          scale(0,0);
+        text-shadow: 0px 0px 0px;
+    }
+    75% {
+        -webkit-transform:  scale(1.25,1.25);
+        -o-transform:       scale(1.25,1.25);
+        -ms-transform:      scale(1.25,1.25);
+        transform:          scale(1.25,1.25);
+        text-shadow: 0px 0px 12px;
+    }
+    100% { 
+        -webkit-transform:  scale(1,1);
+        -o-transform:       scale(1,1);
+        -ms-transform:      scale(1,1);
+        transform:          scale(1,1);
+        text-shadow: 0px 0px 0px;
+    }
+}
+
+@include keyframes(animateMenu) {  // this doesn't adjust the height.
+    0% { 
+        opacity: 0; 
+        -webkit-transform: scaleY(0);
+        -o-transform: scaleY(0);
+        -ms-transform: scaleY(0);
+        transform: scaleY(0);
+    }
+    100% { 
+        opacity: 1; 
+        -webkit-transform: scaleY(1);
+        -o-transform: scaleY(1);
+        -ms-transform: scaleY(1);
+        transform: scaleY(1);
+    }
+}

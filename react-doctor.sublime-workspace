@@ -1,0 +1,976 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bl",
+				"blocked"
+			],
+			[
+				"blcok",
+				"blockUser"
+			],
+			[
+				"media",
+				"mediadata"
+			],
+			[
+				"vide",
+				"videomediadata"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"hide",
+				"hideMenu"
+			],
+			[
+				"bann",
+				"bannerVisible"
+			],
+			[
+				"Pro",
+				"ProfileDetails"
+			],
+			[
+				"create",
+				"createDirectMessage"
+			],
+			[
+				"_",
+				"_blank"
+			],
+			[
+				"on",
+				"onClick"
+			],
+			[
+				"hand",
+				"handleMenuToggle"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"fi-",
+				"fi-widget"
+			],
+			[
+				"gra",
+				"gray28"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"prof",
+				"profile"
+			],
+			[
+				"twee",
+				"Tweet"
+			],
+			[
+				"RE",
+				"RelativeTime"
+			],
+			[
+				"Us",
+				"UserInfo"
+			],
+			[
+				"sel",
+				"selectedUser"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"has",
+				"hasText"
+			],
+			[
+				"get",
+				"getTime"
+			],
+			[
+				"sele",
+				"selectedMessages"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"animate",
+				"animateTweetName"
+			],
+			[
+				"auth",
+				"authorize"
+			],
+			[
+				"oua",
+				"oauthWindow"
+			],
+			[
+				"sub",
+				"submitStatus"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"sta",
+				"statuses"
+			],
+			[
+				"sear",
+				"searchResults"
+			],
+			[
+				"sea",
+				"searchResults"
+			],
+			[
+				"se",
+				"searchResults"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"Me",
+				"MessageBody"
+			],
+			[
+				"id",
+				"id_str"
+			],
+			[
+				"user",
+				"userMap"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"l",
+				"lostConnectionAlert"
+			],
+			[
+				"coo",
+				"cookie"
+			],
+			[
+				"mentions",
+				"mentions_timeline"
+			],
+			[
+				"time",
+				"timelinecache"
+			],
+			[
+				"reque",
+				"request"
+			],
+			[
+				"update",
+				"updatestatus"
+			],
+			[
+				"req",
+				"requestTokenSecret"
+			],
+			[
+				"oaut",
+				"oauth_token"
+			],
+			[
+				"oau",
+				"oauth_token"
+			],
+			[
+				"is",
+				"id_seq"
+			],
+			[
+				"request",
+				"request_token"
+			],
+			[
+				"check",
+				"checkToken"
+			],
+			[
+				"re",
+				"reject"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"autho",
+				"authorize-modal"
+			],
+			[
+				"cook",
+				"cookiedata"
+			],
+			[
+				"last",
+				"lastIndex"
+			],
+			[
+				"las",
+				"lastIndex"
+			],
+			[
+				"bit",
+				"bitrate_max"
+			],
+			[
+				"cont",
+				"content_type"
+			],
+			[
+				"video",
+				"video_info"
+			],
+			[
+				"vid",
+				"video_info"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"li",
+				"lightBlue300"
+			],
+			[
+				"exten",
+				"extended_tweet"
+			],
+			[
+				"han",
+				"handleFavoriteTweet"
+			],
+			[
+				"fav",
+				"favoriteTweet"
+			],
+			[
+				"retw",
+				"retweeted"
+			],
+			[
+				"rew",
+				"retweeted"
+			],
+			[
+				"ex",
+				"extended_entities"
+			],
+			[
+				"blac",
+				"black60"
+			],
+			[
+				"pro",
+				"props"
+			],
+			[
+				"Creat",
+				"createMarkup"
+			],
+			[
+				"dar",
+				"darkestwhite"
+			],
+			[
+				"da",
+				"darkestwhite"
+			],
+			[
+				"gray",
+				"gray28"
+			],
+			[
+				"selec",
+				"selectedUser"
+			],
+			[
+				"light",
+				"lightBlue"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"lig",
+				"lightGreen"
+			],
+			[
+				"Twee",
+				"TweetStatistics"
+			],
+			[
+				"ligh",
+				"lightBlue"
+			],
+			[
+				"ba",
+				"bannerStyle"
+			],
+			[
+				"scr",
+				"screen_name"
+			],
+			[
+				"fe",
+				"fetchHomeTimeline"
+			],
+			[
+				"magin",
+				"margin-top"
+			],
+			[
+				"mag",
+				"margin-right"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"acc",
+				"access_token_secret"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"Re",
+				"RelativeTime"
+			],
+			[
+				"dark",
+				"darkerWhite"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"g",
+				"gray50"
+			],
+			[
+				"pr",
+				"props"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"imag",
+				"imageTemplate"
+			],
+			[
+				"ch",
+				"check"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"product",
+				"product-selector"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "node-backend/index.js",
+			"settings":
+			{
+				"buffer_size": 32160,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 504,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/user/Documents/react-doctor-patient/src"
+	],
+	"file_history":
+	[
+		"/C/Users/user/Documents/squawk-chat/app/components/user-list.js",
+		"/C/Users/user/Documents/squawk-chat/config/environment.js",
+		"/C/Users/user/Documents/squawk-chat/README.md",
+		"/C/Users/user/Documents/react-doctor-patient/node-backend/auth.css",
+		"/C/Users/user/Documents/riskbone/back-end/pg_creds.json",
+		"/C/Users/user/Downloads/ember-websockets-master/ember-websockets-master/addon/helpers/websocket-proxy.js",
+		"/C/Users/user/Documents/squawk-chat/app/adapters/api.js",
+		"/C/Users/user/Downloads/ember-websockets-master/ember-websockets-master/tests/dummy/app/controllers/sockets/example.js",
+		"/C/Users/user/Documents/squawk-chat/app/templates/components/user-list.hbs",
+		"/C/Users/user/Documents/squawk-chat/package.json",
+		"/C/Users/user/Downloads/ember-websockets-master/ember-websockets-master/app/services/websockets.js",
+		"/C/Users/user/Downloads/ember-websockets-master/ember-websockets-master/addon/services/websockets.js",
+		"/C/Users/user/Documents/squawk-chat/app/styles/components/user-list.scss",
+		"/C/Users/user/Documents/squawk-chat/app/templates/components/chat-window.hbs",
+		"/C/Users/user/Documents/squawk-chat/app/styles/components/chat-window.scss",
+		"/C/Users/user/Documents/squawk-chat/app/initializer/websocket.js",
+		"/C/Users/user/Documents/squawk-chat/app/components/chat-window.js",
+		"/C/Users/user/Documents/squawk-chat/app/adapters/fapi.js",
+		"/C/Users/user/Documents/squawk-chat/app/models/user-object.js",
+		"/C/Users/user/Documents/squawk-chat/app/controllers/chat.js",
+		"/C/Users/user/Documents/squawk-chat/app/components/chat-message.js",
+		"/C/Users/user/Documents/squawk-chat/app/styles/components/user-object.scss",
+		"/C/Users/user/Documents/squawk-chat/app/styles/layout.scss",
+		"/C/Users/user/Documents/squawk-chat/app/templates/components/user-profile.hbs",
+		"/C/Users/user/Documents/tweets-react/src/css/animations.scss",
+		"/C/Users/user/Documents/tweets-react/src/css/mixins.scss",
+		"/C/Users/user/Documents/tweets-react/src/css/app.css",
+		"/C/Users/user/Documents/tweets-react/src/css/auth.scss",
+		"/C/Users/user/Documents/tweets-react/src/css/app.scss",
+		"/C/Users/user/Documents/tweets-react/src/js/tweet.js",
+		"/C/Users/user/Documents/tweets-react/src/js/root.js",
+		"/C/Users/user/Documents/tweets-react/src/js/common.js",
+		"/C/Users/user/Downloads/frontend_redshelf_challenge/frontend_platform_interview-master/app/templates/components/shrinking-box.hbs",
+		"/C/Users/user/Downloads/frontend_redshelf_challenge/frontend_platform_interview-master/app/templates/html-css-exercise.hbs",
+		"/C/Users/user/Downloads/frontend_redshelf_challenge/frontend_platform_interview-master/app/routes/html-css-exercise.js",
+		"/C/Users/user/Downloads/frontend_redshelf_challenge/frontend_platform_interview-master/app/components/shrinking-box.js",
+		"/C/Users/user/Downloads/frontend_redshelf_challenge/frontend_platform_interview-master/app/templates/coding-exercise.hbs",
+		"/C/Users/user/Documents/squawk-chat/app/styles/components/chat-message.scss",
+		"/C/Users/user/Documents/tweets-react/src/css/root.scss",
+		"/C/Users/user/Documents/tweets-react/src/css/root.css",
+		"/C/Users/user/Documents/squawk-chat/app/templates/application.hbs",
+		"/C/Users/user/Documents/squawk-chat/app/templates/components/chat-message.hbs",
+		"/C/Users/user/Documents/squawk-chat/app/styles/components/components.scss",
+		"/C/Users/user/Documents/squawk-chat/app/templates/components/user-object.hbs",
+		"/C/Users/user/Documents/squawk-chat/app/routes/messages.js",
+		"/C/Users/user/Documents/squawk-chat/app/router.js",
+		"/C/Users/user/Documents/squawk-chat/app/components/messages.js",
+		"/C/Users/user/Documents/squawk-chat/app/components/user-object.js",
+		"/C/Users/user/Documents/squawk-chat/app/templates/components/messages.hbs",
+		"/C/Users/user/Documents/squawk-chat/app/styles/app.scss",
+		"/C/Users/user/Documents/squawk-chat/app/index.html",
+		"/C/Users/user/Documents/squawk-chat/dist/assets/squawk-chat.css",
+		"/C/Users/user/Documents/squawk-chat/app/routes/user-list.js",
+		"/C/Users/user/Documents/squawk-chat/app/templates/user-list.hbs",
+		"/C/Users/user/Documents/squawk-chat/app/styles/components/geometric-sequence.scss",
+		"/C/Users/user/Documents/riskbone/back-end/prodpg.json",
+		"/C/Users/user/Documents/squawk-chat/app/styles/app.css",
+		"/C/Users/user/Documents/squawk-chat/app/app.js",
+		"/C/Users/user/Documents/squawk-chat/dist/index.html",
+		"/C/Users/user/Documents/squawk-chat/dist/tests/index.html",
+		"/C/Users/user/Documents/squawk-chat/tests/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_merge_trees-input_base_path-ArQ2LWWq.tmp/0/squawk-chat/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_merge_trees-input_base_path-PPV0tkAn.tmp/7/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_merge_trees-input_base_path-R8ZkwsCR.tmp/1/squawk-chat/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_merge_trees-input_base_path-rXH7DVbR.tmp/0/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_merge_trees-input_base_path-rXH7DVbR.tmp/5/tests/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_merge_trees-input_base_path-WHlkonkB.tmp/0/squawk-chat/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_merge_trees-output_path-4LKtrjSe.tmp/squawk-chat/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_merge_trees-output_path-DotdTPHQ.tmp/squawk-chat/tests/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_merge_trees-output_path-JHY7TuaX.tmp/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_merge_trees-output_path-JHY7TuaX.tmp/tests/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_merge_trees-output_path-tEqcFlDi.tmp/squawk-chat/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_merge_trees-output_path-UCLEQ7Af.tmp/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_merge_trees-output_path-XHAxim1f.tmp/squawk-chat/tests/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_merge_trees-output_path-zH4RrdSR.tmp/squawk-chat/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_persistent_filterbabel__babel_squawk_chat-input_base_path-gldR4aZi.tmp/squawk-chat/tests/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_persistent_filterbabel__babel_squawk_chat-input_base_path-VSPaucIq.tmp/squawk-chat/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_persistent_filterbabel__babel_squawk_chat-output_path-7Q5lTgUL.tmp/squawk-chat/tests/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_persistent_filterbabel__babel_squawk_chat-output_path-Si2ydqEV.tmp/squawk-chat/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_persistent_filtereslint_validation_filter-input_base_path-JRSkVg7y.tmp/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_persistent_filtereslint_validation_filter-input_base_path-nFZ1g1xr.tmp/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_persistent_filtereslint_validation_filter-output_path-JKt9LW2v.tmp/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/broccoli_persistent_filtereslint_validation_filter-output_path-STq70hs0.tmp/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/config_replace-input_base_path-5lHY9f3w.tmp/0/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/config_replace-input_base_path-6BM9VaFw.tmp/0/tests/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/config_replace-output_path-HhsSJ9YG.tmp/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/config_replace-output_path-P5BR8I0F.tmp/tests/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/funnel-input_base_path-0cGTyq7Z.tmp/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/funnel-input_base_path-C8Xzj2ZA.tmp/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/funnel-input_base_path-H6k6EUeP.tmp/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/funnel-input_base_path-UkH79O6c.tmp/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/funnel-input_base_path-ul7MtAcg.tmp/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/funnel-input_base_path-zOE6ioXr.tmp/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/funnel-output_path-6QO5txnR.tmp/squawk-chat/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/funnel-output_path-AdlzWfsp.tmp/squawk-chat/tests/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/funnel-output_path-inZITclc.tmp/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/funnel-output_path-OlDw12rk.tmp/tests/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/funnel-output_path-yRq1uaxB.tmp/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/simple_concat_concat-input_base_path-F6Jj9OQS.tmp/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/simple_concat_concat-input_base_path-Yhlw5tfB.tmp/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/source_map_concat-input_base_path-ieKpRcGj.tmp/squawk-chat/index.html",
+		"/C/Users/user/Documents/squawk-chat/tmp/source_map_concat-input_base_path-YVRLiE6c.tmp/squawk-chat/index.html",
+		"/C/Users/user/Documents/squawk-chat/app/routes/coding-exercise.js",
+		"/C/Users/user/Documents/squawk-chat/dist/assets/rs-fed-interview.css",
+		"/C/Users/user/Documents/squawk-chat/dist/assets/rs-fed-interview.css.map",
+		"/C/Users/user/Documents/squawk-chat/dist/assets/rs-fed-interview.js",
+		"/C/Users/user/Documents/squawk-chat/dist/assets/rs-fed-interview.map",
+		"/C/Users/user/Documents/squawk-chat/dist/assets/tests.js",
+		"/C/Users/user/Documents/squawk-chat/dist/assets/tests.map",
+		"/C/Users/user/Documents/squawk-chat/dist/assets/vendor.js",
+		"/C/Users/user/Documents/squawk-chat/dist/assets/vendor.map",
+		"/C/Users/user/Documents/squawk-chat/testem.js",
+		"/C/Users/user/Documents/squawk-chat/public/crossdomain.xml",
+		"/C/Users/user/Documents/squawk-chat/node-backend/pg.js",
+		"/C/Users/user/Documents/squawk-chat/node-backend/index.js",
+		"/C/Users/user/Documents/squawk-chat/app/resolver.js",
+		"/C/Users/user/Documents/squawk-chat/.eslintrc.js",
+		"/C/Users/user/Documents/squawk-chat/bower.json",
+		"/C/Users/user/Documents/squawk-chat/ember-cli-build.js",
+		"/C/Users/user/Documents/riskbone/back-end/devpg.json",
+		"/C/Users/user/Documents/squawk-chat/node-backend/auth.js",
+		"/C/Users/user/Documents/squawk-chat/node-backend/package.json",
+		"/C/Users/user/Documents/riskbone/back-end/pg.js",
+		"/C/Users/user/Documents/tweets-react/node-backend/index.js",
+		"/C/Users/user/Documents/tweets-react/src/css/profile.scss",
+		"/C/Users/user/Documents/tweets-react/src/css/twitter.scss",
+		"/C/Users/user/Documents/tweets-react/src/js/profile.js",
+		"/C/Users/user/Documents/tweets-react/src/js/api.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"updatesearh",
+			"widget",
+			"tweet-m",
+			"ellip",
+			"232",
+			"\n.label {\n  display: inline;\n  padding: .2em .6em",
+			"label",
+			"RsFedInterview",
+			"interview",
+			"rs-fed-interview",
+			"rs-fed",
+			"Squawk Box",
+			"font-weight: bold;",
+			"tweet-date",
+			"avatar",
+			"blur",
+			"back-button",
+			"tweet-cont",
+			"status",
+			"status/",
+			"status/c",
+			"cookie",
+			"mentionHandler",
+			"extend",
+			"ReactDOM",
+			"recent",
+			"animate",
+			"fetchDirectMessages",
+			"directm",
+			"direct",
+			"fi-st",
+			"retweet-user",
+			"star",
+			"style",
+			"300ms",
+			"animation-delay",
+			"animateTweetContent",
+			"first-child",
+			"first",
+			"input",
+			"button",
+			"dataloader",
+			"transports",
+			"io.",
+			"io.to",
+			"join",
+			":400",
+			"socket.handshake.address",
+			"socket.handshake",
+			"socket.handshake.address",
+			"className",
+			"html",
+			"servefile",
+			"media-box",
+			"gray50",
+			"tweet-bod",
+			"verified",
+			"QuotedStatus",
+			"this.state.selectedUser",
+			"-100%",
+			"twitter-app",
+			"verified",
+			"status",
+			"white",
+			"this.props.data",
+			"fetchHomeTimeline",
+			"twitter",
+			"user-ava",
+			"user",
+			"OiginalUser",
+			"relativetime",
+			"status",
+			"status-contain",
+			"tweet-bod",
+			"subwhite",
+			"relativeTime",
+			"tweet-controls",
+			"this.props",
+			"class",
+			"Worker",
+			"drawMessages",
+			"drawDebug",
+			"audio",
+			"a {",
+			"li",
+			"nicescr",
+			"300",
+			"Roboto",
+			"imageChangeHandler",
+			"-",
+			"app"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Squawk Chat",
+			"squawk-chat",
+			"900ms",
+			"socket.handshake.headers[\"x-forwarded-for\"]",
+			"class",
+			"selectedUser",
+			"tweet",
+			"darkestwhite",
+			"this.props.",
+			"this.props.data",
+			"className"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "node-backend/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1150,
+								1150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								504,
+								504
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 284.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 443.0
+	},
+	"pinned_build_system": "Packages/User/love2d.sublime-build",
+	"project": "react-doctor.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

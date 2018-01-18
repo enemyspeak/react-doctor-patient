@@ -1,0 +1,255 @@
+@import "./colors.scss";
+
+@mixin grow(){
+    @keyframes transitionMenus {
+      0% {
+        display: none;
+        opacity: 0;
+      }
+      1% {
+        display: block;
+        opacity: 0;
+        transform: scale(0);
+      }
+      100% {
+        opacity: 1;
+        transform: scale(1);
+      }
+    }
+}
+
+@mixin webkitScrollbar() {
+    ::-webkit-scrollbar {
+        width: 10px;
+    }
+    ::-webkit-scrollbar:horizontal {
+        height:10px;
+    }
+    ::-webkit-scrollbar-track {
+        background:$black80;
+        border-left: none;// 1px solid #ccc;
+        // border-right: 2px transparent solid;
+    }
+    ::-webkit-scrollbar-track:horizontal {
+        border-top: none;//1px solid #ccc;
+    }
+    ::-webkit-scrollbar-thumb {
+        // margin: 2px;
+        background-color: #424242;
+        border-radius:5px;
+        // transition:background 0.3s ease;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+        background-color: #AFAFAF;
+    }
+    ::-webkit-scrollbar-corner{
+        background:$black80; //#eaeaea;
+    }
+}
+@mixin animation($animate...) {
+    $max: length($animate);
+    $animations: '';
+
+    @for $i from 1 through $max {
+        $animations: #{$animations + nth($animate, $i)};
+
+        @if $i < $max {
+            $animations: #{$animations + ", "};
+        }
+    }
+    -webkit-animation: $animations;
+    -moz-animation:    $animations;
+    -o-animation:      $animations;
+    animation:         $animations;
+}
+
+@mixin keyframes($animationName) {
+    @-webkit-keyframes #{$animationName} {
+        @content;
+    }
+    @-moz-keyframes #{$animationName} {
+        @content;
+    }
+    @-o-keyframes #{$animationName} {
+        @content;
+    }
+    @keyframes #{$animationName} {
+        @content;
+    } 
+}
+@mixin word-wrap() {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -ms-word-break: break-all;
+    word-break: break-word;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+}
+@mixin ellipsis() {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+@mixin windowShadow() { // incompatible with new window style
+//  background-image:linear-gradient(transparent, $black); 
+    content:'';
+    display:block;
+    position:absolute;
+    z-index:10;
+    pointer-events:none;
+    height:10%; 
+    width:100%;
+    bottom:0;
+}
+@mixin windowShadowTop() {
+    background-image:linear-gradient($black, transparent);
+    content:'';
+    display:block;
+    position:absolute;
+    z-index:10;
+    pointer-events:none;
+    height:10%;
+    width:100%;
+    top:0;
+}
+@mixin displayFlex(){
+    display:-webkit-flex;
+    display:flex;
+}
+
+@mixin keyframes($animationName) {
+    @-webkit-keyframes #{$animationName} {
+        @content;
+    }
+    @-moz-keyframes #{$animationName} {
+        @content;
+    }
+    @-o-keyframes #{$animationName} {
+        @content;
+    }
+    @keyframes #{$animationName} {
+        @content;
+    }
+}
+
+@mixin iconFlexCenter() {
+    @include displayFlex();
+    -webkit-align-items:center;
+    -webkit-justify-content:center;
+    align-items:center;
+    justify-content:center;
+}
+
+@mixin linear-gradient-black()  {
+    background:linear-gradient(
+      hsl(0, 0%, 0%) 0%,
+      hsla(0, 0%, 0%, 0.738) 19%,
+      hsla(0, 0%, 0%, 0.541) 34%,
+      hsla(0, 0%, 0%, 0.382) 47%,
+      hsla(0, 0%, 0%, 0.278) 56.5%,
+      hsla(0, 0%, 0%, 0.194) 65%,
+      hsla(0, 0%, 0%, 0.126) 73%,
+      hsla(0, 0%, 0%, 0.075) 80.2%,
+      hsla(0, 0%, 0%, 0.042) 86.1%,
+      hsla(0, 0%, 0%, 0.021) 91%,
+      hsla(0, 0%, 0%, 0.008) 95.2%,
+      hsla(0, 0%, 0%, 0.002) 98.2%,
+      hsla(0, 0%, 0%, 0) 100%
+    );
+}
+
+@mixin linear-gradient-white()  {
+    background:linear-gradient(
+      hsl(0, 0%, 100%) 0%,
+      hsla(0, 0%, 100%, 0.738) 19%,
+      hsla(0, 0%, 100%, 0.541) 34%,
+      hsla(0, 0%, 100%, 0.382) 47%,
+      hsla(0, 0%, 100%, 0.278) 56.5%,
+      hsla(0, 0%, 100%, 0.194) 65%,
+      hsla(0, 0%, 100%, 0.126) 73%,
+      hsla(0, 0%, 100%, 0.075) 80.2%,
+      hsla(0, 0%, 100%, 0.042) 86.1%,
+      hsla(0, 0%, 100%, 0.021) 91%,
+      hsla(0, 0%, 100%, 0.008) 95.2%,
+      hsla(0, 0%, 100%, 0.002) 98.2%,
+      hsla(0, 0%, 100%, 0) 100%
+    );
+}
+
+@keyframes transitionMenus {
+      0% {
+        display: none;
+        opacity: 0;
+      }
+      1% {
+        display: block;
+        opacity: 0;
+        transform: scale(0);
+      }
+      100% {
+        opacity: 1;
+        transform: scale(1);
+      }
+}
+
+@mixin backButton() {
+    .back-button{
+        width:30px;
+        height:30px;
+        position: absolute;
+        display:block;
+        top: 0;
+        left: 0;
+        overflow:hidden;
+        cursor:pointer;
+        border-right:1px solid $gray28;
+                
+        &.back{
+            .arrow-wrap{
+              left:-50%;
+            }
+        }
+        &:hover{
+            .arrow-wrap{
+                span{
+                    background:$orange;
+                }
+            }
+        }
+        .arrow-wrap{
+            display:block;
+            position:absolute;
+            height:60%;
+            width:60%;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            transition:left 0.3s ease;
+            span{
+                height:1px;
+                left:0;
+                top:50%;
+                background:$white;
+                position:absolute;
+                display:block;
+                transition:background 0.3s ease;
+            }
+            .arrow-part-1{
+                width:100%;
+                transform: translate(0, -50%);
+            }
+            .arrow-part-2{
+                width:60%;
+                transform: rotate(-45deg);
+                transform-origin: 0 0;
+            }
+            .arrow-part-3{
+                width:60%;
+                transform: rotate(45deg);
+                transform-origin: 0 0;
+            }
+        }
+    }
+}

@@ -1,0 +1,192 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar render matches snapshot 1`] = `
+<img
+  alt="ShedworksGreg"
+  className="Avatar"
+  src="https://pbs.twimg.com/profile_images/907574665543143425/8Ti_CjIB_normal.jpg"
+/>
+`;
+
+exports[`DropdownMenu profile hidden render matches snapshot 1`] = `
+<div
+  className="tweet-menu "
+>
+  <div
+    className="list-item"
+    onClick={[Function]}
+  >
+    <div
+      className="list-icon fi-prohibited"
+    />
+    Block User
+  </div>
+  <a
+    className="list-item"
+    href="https://twitter.com/hannufluff"
+    target="_blank"
+  >
+    <div
+      className="list-icon fi-link"
+    />
+    View on Twitter.com
+  </a>
+</div>
+`;
+
+exports[`DropdownMenu profile render matches snapshot 1`] = `
+<div
+  className="tweet-menu visible"
+>
+  <div
+    className="list-item"
+    onClick={[Function]}
+  >
+    <div
+      className="list-icon fi-prohibited"
+    />
+    Block User
+  </div>
+  <a
+    className="list-item"
+    href="https://twitter.com/hannufluff"
+    target="_blank"
+  >
+    <div
+      className="list-icon fi-link"
+    />
+    View on Twitter.com
+  </a>
+</div>
+`;
+
+exports[`DropdownMenu tweet hidden render matches snapshot 1`] = `
+<div
+  className="tweet-menu "
+>
+  <div
+    className="list-item"
+  >
+    <div
+      className="list-icon fi-magnifying-glass"
+    />
+    Show Details
+  </div>
+  <div
+    className="list-item"
+    onClick={[Function]}
+  >
+    <div
+      className="list-icon fi-quote"
+    />
+    Copy Link to Tweet
+  </div>
+  <div
+    className="list-item"
+    onClick={[Function]}
+  >
+    <div
+      className="list-icon fi-page-copy"
+    />
+    Copy Tweet Text
+  </div>
+  <a
+    className="list-item"
+    href="https://twitter.com/exoditedragon/status/947972151574958081"
+    target="_blank"
+  >
+    <div
+      className="list-icon fi-link"
+    />
+    View on Twitter.com
+  </a>
+</div>
+`;
+
+exports[`DropdownMenu tweet render matches snapshot 1`] = `
+<div
+  className="tweet-menu visible"
+>
+  <div
+    className="list-item"
+  >
+    <div
+      className="list-icon fi-magnifying-glass"
+    />
+    Show Details
+  </div>
+  <div
+    className="list-item"
+    onClick={[Function]}
+  >
+    <div
+      className="list-icon fi-quote"
+    />
+    Copy Link to Tweet
+  </div>
+  <div
+    className="list-item"
+    onClick={[Function]}
+  >
+    <div
+      className="list-icon fi-page-copy"
+    />
+    Copy Tweet Text
+  </div>
+  <a
+    className="list-item"
+    href="https://twitter.com/exoditedragon/status/947972151574958081"
+    target="_blank"
+  >
+    <div
+      className="list-icon fi-link"
+    />
+    View on Twitter.com
+  </a>
+</div>
+`;
+
+exports[`Media render matches snapshot 1`] = `
+<div
+  className="media-contain"
+>
+  <div
+    className="media-box"
+  >
+    <img
+      alt="pic.twitter.com/GyqXj0uTy2"
+      src="https://pbs.twimg.com/media/DSdpnpyWsAEcCBt.jpg:small"
+    />
+  </div>
+</div>
+`;
+
+exports[`UserInfo render matches snapshot 1`] = `
+<div
+  className="tweet-user"
+>
+  <div
+    className="user-avatar"
+    onClick={[Function]}
+  >
+    <img
+      alt="ShedworksGreg"
+      className="Avatar"
+      src="https://pbs.twimg.com/profile_images/907574665543143425/8Ti_CjIB_normal.jpg"
+    />
+  </div>
+  <span
+    className="name"
+    onClick={[Function]}
+  >
+    Gregorios Kythreotis
+  </span>
+  <span
+    className="screenName"
+    onClick={[Function]}
+  >
+    @
+    ShedworksGreg
+  </span>
+</div>
+`;

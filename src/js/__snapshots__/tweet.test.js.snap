@@ -1,0 +1,172 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tweet render matches snapshot 1`] = `
+<div
+  className="tweet-contain undefined"
+  id="947842380098662402"
+  onClick={[Function]}
+  userid="129175727"
+>
+  <div
+    className="tweet-body"
+    onClick={[Function]}
+  >
+    <div
+      className="tweet-user"
+    >
+      <div
+        className="user-avatar"
+        onClick={[Function]}
+      >
+        <img
+          alt="ShedworksGreg"
+          className="Avatar"
+          src="https://pbs.twimg.com/profile_images/907574665543143425/8Ti_CjIB_normal.jpg"
+        />
+      </div>
+      <span
+        className="name"
+        onClick={[Function]}
+      >
+        Gregorios Kythreotis
+      </span>
+      <span
+        className="screenName"
+        onClick={[Function]}
+      >
+        @
+        ShedworksGreg
+      </span>
+    </div>
+    <p
+      className="tweet-text"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "Spirit of the Mountain by Thomas Chamberlain",
+        }
+      }
+      onClick={[Function]}
+    />
+    <div
+      className="status-contain"
+    >
+      <div
+        className="fi-star "
+      />
+      <div
+        className="fi-loop "
+      />
+    </div>
+    <div
+      className="media-contain"
+    >
+      <div
+        className="media-box"
+      >
+        <img
+          alt="pic.twitter.com/GyqXj0uTy2"
+          src="https://pbs.twimg.com/media/DSdpnpyWsAEcCBt.jpg:small"
+        />
+      </div>
+    </div>
+    <div
+      className="retweeted-by-contain"
+      onClick={[Function]}
+    >
+      <span
+        className="fi-loop"
+      />
+      <div
+        className="retweet-user-avatar"
+      >
+        <img
+          alt="exoditedragon"
+          className="Avatar"
+          src="https://pbs.twimg.com/profile_images/804117069851541504/BIvGr2I0_normal.jpg"
+        />
+      </div>
+      <span
+        className="retweet-user"
+      >
+        blazing yule log
+      </span>
+    </div>
+  </div>
+  <div
+    className="tweet-controls"
+  >
+    <button
+      className="reply"
+      onClick={[Function]}
+    >
+      <div
+        className="fi-comment-quotes"
+      />
+    </button>
+    <button
+      className="retweet "
+      onClick={[Function]}
+    >
+      <div
+        className="fi-loop"
+      />
+    </button>
+    <button
+      className="favorite "
+      onClick={[Function]}
+    >
+      <div
+        className="fi-star"
+      />
+    </button>
+    <button
+      className="menu "
+      onClick={[Function]}
+    >
+      <div
+        className="fi-widget"
+      />
+    </button>
+  </div>
+  <div
+    className="tweet-menu "
+  >
+    <div
+      className="list-item"
+    >
+      <div
+        className="list-icon fi-magnifying-glass"
+      />
+      Show Details
+    </div>
+    <div
+      className="list-item"
+      onClick={[Function]}
+    >
+      <div
+        className="list-icon fi-quote"
+      />
+      Copy Link to Tweet
+    </div>
+    <div
+      className="list-item"
+      onClick={[Function]}
+    >
+      <div
+        className="list-icon fi-page-copy"
+      />
+      Copy Tweet Text
+    </div>
+    <a
+      className="list-item"
+      href="https://twitter.com/ShedworksGreg/status/947842380098662402"
+      target="_blank"
+    >
+      <div
+        className="list-icon fi-link"
+      />
+      View on Twitter.com
+    </a>
+  </div>
+</div>
+`;

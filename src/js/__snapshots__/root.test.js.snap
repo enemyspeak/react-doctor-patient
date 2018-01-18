@@ -1,0 +1,300 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`root render matches snapshot 1`] = `
+<div
+  className="app-wrapper"
+>
+  <div
+    className="potential-problem "
+  >
+    <p>
+      Disconnected from data
+    </p>
+  </div>
+  <div
+    className="authorize-contain visible"
+  >
+    <div
+      className="authorize-background"
+    />
+    <div
+      className="authorize-modal"
+    >
+      <div
+        className="fi-social-twitter"
+      />
+      <h1>
+        Welcome to Squawk Box.
+      </h1>
+      <p>
+        Before you can begin using Squawk Box, you need to connect your twitter account.
+      </p>
+      <button
+        onClick={[Function]}
+      >
+        Connect
+      </button>
+    </div>
+  </div>
+  <div
+    className="compose-tweet-contain "
+  >
+    <div
+      className="compose-tweet-background"
+      onClick={[Function]}
+    />
+    <div
+      className="compose-tweet"
+    >
+      <span
+        className="input-label full"
+      >
+        Compose Tweet
+      </span>
+      <textarea
+        onChange={[Function]}
+        type="text"
+        value=""
+      />
+      <button
+        className="submit-button"
+        onClick={[Function]}
+      >
+        Submit
+      </button>
+    </div>
+  </div>
+  <div
+    className="header-row"
+  >
+    <div
+      className="fi-social-twitter"
+    />
+    <div>
+      Squawk Box
+    </div>
+    <span>
+      BETA
+    </span>
+  </div>
+  <div
+    alt="Compose"
+    className="compose-tweet-icon"
+  >
+    <span
+      className="fi-pencil"
+      onClick={[Function]}
+    />
+  </div>
+  <div
+    className="navigation-contain"
+  >
+    <div
+      className="nagivation"
+    >
+      <div
+        className="nagivation"
+      >
+        <nav>
+          <div
+            alt="timeline"
+            className="navigation-item active"
+            id="timeline"
+            onClick={[Function]}
+          >
+            <div
+              className="icon-contain fi-comment"
+            />
+          </div>
+          <div
+            alt="mentions"
+            className="navigation-item "
+            id="mentions"
+            onClick={[Function]}
+          >
+            <div
+              className="icon-contain fi-at-sign"
+            />
+          </div>
+          <div
+            alt="direct-messages"
+            className="navigation-item "
+            id="direct-messages"
+            onClick={[Function]}
+          >
+            <div
+              className="icon-contain fi-mail"
+            />
+          </div>
+          <div
+            alt="favorites"
+            className="navigation-item "
+            id="favorites"
+            onClick={[Function]}
+          >
+            <div
+              className="icon-contain fi-star"
+            />
+          </div>
+          <div
+            alt="search"
+            className="navigation-item "
+            id="search"
+            onClick={[Function]}
+          >
+            <div
+              className="icon-contain fi-magnifying-glass"
+            />
+          </div>
+          <div
+            alt="profile"
+            className="navigation-item "
+            id="profile"
+            onClick={[Function]}
+          >
+            <div
+              className="icon-contain fi-torso"
+            />
+          </div>
+        </nav>
+      </div>
+    </div>
+  </div>
+  <div
+    className="app-contain"
+  >
+    <div
+      className="twitter-app "
+    >
+      <div
+        className="profile-parent-contain inactive"
+      />
+      <div
+        className="tweet-details-contain "
+      />
+      <div
+        className="timeline-contain "
+      >
+        <div
+          className="dataLoader "
+        />
+      </div>
+    </div>
+    <div
+      className="twitter-app inactive"
+    >
+      <div
+        className="profile-parent-contain inactive"
+      />
+      <div
+        className="tweet-details-contain "
+      />
+      <div
+        className="timeline-contain "
+      >
+        <div
+          className="dataLoader "
+        />
+      </div>
+    </div>
+    <div
+      className="twitter-app inactive"
+    >
+      <div
+        className="profile-parent-contain inactive"
+      />
+      <div
+        className="tweet-details-contain "
+      />
+      <div
+        className="timeline-contain "
+      >
+        <div
+          className="dataLoader "
+        />
+      </div>
+    </div>
+    <div
+      className="twitter-app inactive"
+    >
+      <div
+        className="sub-profile-contain "
+      />
+      <div
+        className="search-wrap visible"
+      >
+        <div
+          className="search-contain"
+        >
+          
+        </div>
+        <div
+          className="search-form-contain"
+        >
+          <span
+            className="input-label full"
+          >
+            Search
+          </span>
+          <input
+            onChange={[Function]}
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="twitter-app inactive"
+    >
+      <div
+        className="messages-contain inactive"
+      >
+        <div
+          className="back-button"
+          onClick={[Function]}
+        >
+          <div
+            className="fi-arrow-left"
+          />
+        </div>
+        <div
+          className="messages-wrap"
+        />
+        <div
+          className="input-wrap"
+        >
+          <span
+            className="input-label full"
+          >
+            Message
+          </span>
+          <input
+            onChange={[Function]}
+            type="text"
+          />
+          <button
+            className="button send-button"
+          >
+            Send
+          </button>
+        </div>
+      </div>
+      <div
+        className="messages-list-contain "
+      />
+    </div>
+    <div
+      className="twitter-app inactive"
+    >
+      <div
+        className="profile-contain"
+      >
+        <div
+          className="dataLoader"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
