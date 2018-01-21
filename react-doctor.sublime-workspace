@@ -4,16 +4,32 @@
 		"selected_items":
 		[
 			[
+				"font",
+				"font"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
 				"f",
 				"for\tfor (…) {…} (Improved Native For-Loop)"
 			],
 			[
 				"fon",
 				"font-size"
-			],
-			[
-				"pad",
-				"padding-right"
 			],
 			[
 				"mar",
@@ -42,10 +58,6 @@
 			[
 				"wid",
 				"width"
-			],
-			[
-				"font",
-				"font-weight"
 			],
 			[
 				"bl",
@@ -276,10 +288,6 @@
 				"reject"
 			],
 			[
-				"text",
-				"text-align"
-			],
-			[
 				"autho",
 				"authorize-modal"
 			],
@@ -468,10 +476,29 @@
 	"buffers":
 	[
 		{
-			"file": "node-backend/index.js",
+			"file": "src/js/root.js",
 			"settings":
 			{
-				"buffer_size": 32160,
+				"buffer_size": 2062,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/authorize.js",
+			"settings":
+			{
+				"buffer_size": 1104,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/api.js",
+			"settings":
+			{
+				"buffer_size": 9155,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
@@ -482,6 +509,58 @@
 				"buffer_size": 504,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/common.js",
+			"settings":
+			{
+				"buffer_size": 6882,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/css/app.scss",
+			"settings":
+			{
+				"buffer_size": 10319,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/user/Documents/riskbone/front-end/public/css/scss/commonstyles.scss",
+			"settings":
+			{
+				"buffer_size": 31612,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/css/root.scss",
+			"settings":
+			{
+				"buffer_size": 45,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/css/auth.scss",
+			"settings":
+			{
+				"buffer_size": 1762,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/css/colors.scss",
+			"settings":
+			{
+				"buffer_size": 1512,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -550,10 +629,20 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/user/Documents/react-doctor-patient/src"
+		"/C/Users/user/Documents/react-doctor-patient/src",
+		"/C/Users/user/Documents/react-doctor-patient/src/css",
+		"/C/Users/user/Documents/react-doctor-patient/src/js",
+		"/C/Users/user/Documents/react-doctor-patient/src/js/__mocks__",
+		"/C/Users/user/Documents/react-doctor-patient/src/js/__snapshots__"
 	],
 	"file_history":
 	[
+		"/C/Users/user/Documents/riskbone/front-end/public/css/commonstyles.css",
+		"/C/Users/user/Documents/react-doctor-patient/src/index.js",
+		"/C/Users/user/Documents/react-doctor-patient/node-backend/index.js",
+		"/C/Users/user/Documents/react-doctor-patient/public/index.html",
+		"/C/Users/user/Documents/squawk-chat/app/styles/components/user-list.scss",
+		"/C/Users/user/Documents/react-doctor-patient/src/css/search.scss",
 		"/C/Users/user/Documents/squawk-chat/app/components/user-list.js",
 		"/C/Users/user/Documents/squawk-chat/config/environment.js",
 		"/C/Users/user/Documents/squawk-chat/README.md",
@@ -566,7 +655,6 @@
 		"/C/Users/user/Documents/squawk-chat/package.json",
 		"/C/Users/user/Downloads/ember-websockets-master/ember-websockets-master/app/services/websockets.js",
 		"/C/Users/user/Downloads/ember-websockets-master/ember-websockets-master/addon/services/websockets.js",
-		"/C/Users/user/Documents/squawk-chat/app/styles/components/user-list.scss",
 		"/C/Users/user/Documents/squawk-chat/app/templates/components/chat-window.hbs",
 		"/C/Users/user/Documents/squawk-chat/app/styles/components/chat-window.scss",
 		"/C/Users/user/Documents/squawk-chat/app/initializer/websocket.js",
@@ -676,12 +764,7 @@
 		"/C/Users/user/Documents/riskbone/back-end/devpg.json",
 		"/C/Users/user/Documents/squawk-chat/node-backend/auth.js",
 		"/C/Users/user/Documents/squawk-chat/node-backend/package.json",
-		"/C/Users/user/Documents/riskbone/back-end/pg.js",
-		"/C/Users/user/Documents/tweets-react/node-backend/index.js",
-		"/C/Users/user/Documents/tweets-react/src/css/profile.scss",
-		"/C/Users/user/Documents/tweets-react/src/css/twitter.scss",
-		"/C/Users/user/Documents/tweets-react/src/js/profile.js",
-		"/C/Users/user/Documents/tweets-react/src/js/api.js"
+		"/C/Users/user/Documents/riskbone/back-end/pg.js"
 	],
 	"find":
 	{
@@ -700,6 +783,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"button-scale",
 			"updatesearh",
 			"widget",
 			"tweet-m",
@@ -824,26 +908,25 @@
 			[
 				{
 					"buffer": 0,
-					"file": "node-backend/index.js",
+					"file": "src/js/root.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 32160,
+						"buffer_size": 2062,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1150,
-								1150
+								1037,
+								1037
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -854,6 +937,65 @@
 				},
 				{
 					"buffer": 1,
+					"file": "src/js/authorize.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1104,
+								1104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/js/api.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								855,
+								855
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "README.md",
 					"semi_transient": false,
 					"settings":
@@ -877,7 +1019,188 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "src/js/common.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6882,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6700,
+								6700
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 22.0,
+						"translation.y": 2113.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/css/app.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6792,
+								6792
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3505.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/user/Documents/riskbone/front-end/public/css/scss/commonstyles.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15527,
+								16187
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8257.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/css/root.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/css/auth.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1762,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1760,
+								1760
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 168.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/css/colors.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1512,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								241,
+								252
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
 					"type": "text"
 				}
 			]
@@ -900,11 +1223,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -968,7 +1298,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 233.0,
+	"side_bar_width": 218.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

@@ -67,24 +67,10 @@ class Root extends Component {
 
 				<Authorize visible={this.state.user} />
 
-				<div className={"compose-tweet-contain " + (this.state.showCompose ? "visible" : "")}>
-					<div className="compose-tweet-background" onClick={() => this.toggleComposeView()}></div>
-					<div className="compose-tweet">
-						<span className={"input-label " + (this.state.tweetText ? "" : "full" )}>Compose Tweet</span>
-	          			<textarea type="text" value={this.state.tweetText} onChange={(event) => this.handleChange(event)} />
-	          			<button className="submit-button" onClick={() => this.submitStatus()}>Submit</button>
-	          			{/* <button className="cancel-button">Back</button> */}
-					</div>
-				</div>
-
 				<div className="header-row">
 					<div className="fi-social-twitter"></div>
-					<div>Tweet Box</div>
+					<div>Forceps</div>
 					<span>BETA</span>
-				</div>
-
-				<div className="compose-tweet-icon" alt="Compose">
-					<span className="fi-pencil" onClick={() => this.toggleComposeView()}></span>
 				</div>
 
 				<div className="navigation-contain">
